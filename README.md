@@ -25,6 +25,7 @@ Whether you are designing a high-throughput enterprise continuous testing CI/CD 
 - [☁️ SaaS Web & Browser Testing Clouds](#️-saas-web--browser-testing-clouds)
 - [🛠️ Open-Source Frameworks & Tools](#️-open-source-frameworks--tools)
 - [🏗️ Open-Core & Self-Hosted Infrastructure](#️-open-core--self-hosted-infrastructure)
+- [🤖 Local AI QA Agents](#-local-ai-qa-agents)
 - [📈 Star History](#-star-history)
 - [💖 Support & Contributing](#-support--contributing)
 
@@ -82,6 +83,16 @@ Hybrid and open-core solutions for teams deploying private test infrastructure o
 |---|:---:|---|---|---|---|
 | [Moon by Aerokube](https://github.com/aerokube/moon) | [![GitHub_Stars](https://img.shields.io/github/stars/aerokube/moon?style=social&color=white)](https://github.com/aerokube/moon/stargazers) | Apache-2.0 (Open-Core) | $5/parallel session/month | **Free Forever Tier**: Free for up to 4 parallel browser sessions in Kubernetes/OpenShift clusters without time limits. | Kubernetes-native scalable browser grid supporting Selenium, Playwright, Puppeteer, and Cypress with dynamic pod scheduling. |
 | [Browserless](https://github.com/browserless/browserless) | [![GitHub_Stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers) | Commercial / Source-Available | Cloud starting at $50/mo; Self-hosted enterprise licensing available | **Free Forever Tier**: Open-source Docker image free for personal/local self-hosting; Cloud plan offers 1,000 free sessions/month. | Scalable headless Chrome service optimized for high-volume automated browser tasks, web scraping, and QA workloads. |
+
+---
+
+## 🤖 Local AI QA Agents
+
+Tools that run locally with configured model access and a browser or device environment. Check the listed license for permitted use.
+
+| Tool | Targets | License & local costs | Description |
+|---|---|---|---|
+| [agent-qa](https://vostride.com) ([source](https://github.com/vostride/agent-qa)) | Web browsers | FSL-1.1-ALv2; free local software for permitted use, model/device costs separate | Natural-language QA with persistent memidex memory, validated self-improvement and recorded steps/screenshots; CLI, dashboard and MCP. |
 
 ---
 
